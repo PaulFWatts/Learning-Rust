@@ -1,5 +1,5 @@
 [package]
-name = "grrs"
+name = "pfw_grrs"
 version = "0.1.0"
 authors = ["Paul Watts <paul.watts@me.com>"]
 edition = "2018"
